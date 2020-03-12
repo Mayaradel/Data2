@@ -1,4 +1,3 @@
-
 public class SelectionSort {
 
     void sort(int arr[]) {
